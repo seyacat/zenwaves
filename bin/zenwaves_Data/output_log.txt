@@ -1,0 +1,92 @@
+Initialize engine version: 5.5.0b9 (d73e98081237)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   9.18.13.4752
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\DOTween.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\DOTween.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.039755 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 22fc -> priority: 1 
+  Thread -> id: 2300 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.829560 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1413.
+Total: 0.883039 ms (FindLiveObjects: 0.119306 ms CreateObjectMapping: 0.022236 ms MarkObjects: 0.322426 ms  DeleteObjects: 0.417786 ms)
+
+Initialize engine version: 5.5.0b9 (d73e98081237)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   9.18.13.4752
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\DOTween.dll (this message is harmless)
+Loading H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\DOTween.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\globalgamejam\wavegolf\bin\zenwaves_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.973902 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 20c8 -> priority: 1 
+  Thread -> id: 1de8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.156471 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1410.
+Total: 0.828731 ms (FindLiveObjects: 0.076544 ms CreateObjectMapping: 0.024374 ms MarkObjects: 0.353215 ms  DeleteObjects: 0.373741 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.914462 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 2.450272 ms (FindLiveObjects: 0.029933 ms CreateObjectMapping: 0.036347 ms MarkObjects: 0.171048 ms  DeleteObjects: 2.212515 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427621 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.986951 ms (FindLiveObjects: 0.023091 ms CreateObjectMapping: 0.023946 ms MarkObjects: 0.230915 ms  DeleteObjects: 0.708569 ms)
+
